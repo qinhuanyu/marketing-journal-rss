@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: rss-update
+  cancel-in-progress: false
+
 jobs:
   update-feeds:
     runs-on: ubuntu-latest
@@ -40,5 +44,7 @@ jobs:
             echo "No feed changes detected."
           else
             git commit -m "chore(rss): auto-update journal feeds [skip ci]"
-            git push origin main
+            git fetch origin main
+            git rebase origin/main
+            git push origin HEAD:main
           fi
