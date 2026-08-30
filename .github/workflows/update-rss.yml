@@ -44,7 +44,36 @@ jobs:
             echo "No feed changes detected."
           else
             git commit -m "chore(rss): auto-update journal feeds [skip ci]"
-            git fetch origin main
-            git rebase origin/main
-            git push origin HEAD:main
+
+            MAX_RETRIES=3
+            DELAY_SECONDS=3
+            ATTEMPT=1
+            SUCCESS=false
+
+            while [ $ATTEMPT -le $MAX_RETRIES ]; do
+              echo "Push attempt $ATTEMPT of $MAX_RETRIES..."
+              if git push origin HEAD:main; then
+                echo "Push succeeded on attempt $ATTEMPT."
+                SUCCESS=true
+                break
+              fi
+
+              echo "Push rejected. Fetching latest origin/main and rebasing..."
+              if ! git fetch origin main; then
+                echo "Failed to fetch origin/main."
+              elif ! git rebase origin/main; then
+                echo "Rebase conflict encountered; aborting rebase."
+                git rebase --abort || true
+                break
+              fi
+
+              echo "Rebase successful. Waiting ${DELAY_SECONDS}s before retrying push..."
+              sleep $DELAY_SECONDS
+              ATTEMPT=$((ATTEMPT + 1))
+            done
+
+            if [ "$SUCCESS" != "true" ]; then
+              echo "Error: Failed to push feed updates to origin/main after $MAX_RETRIES attempts."
+              exit 1
+            fi
           fi
