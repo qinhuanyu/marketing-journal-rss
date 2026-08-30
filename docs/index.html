@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Marketing Journal RSS Feeds</title>
-  <meta name="description" content="Real-time RSS feeds for Advance Articles and Online First papers from top marketing journals: JCR and JAMS.">
+  <meta name="description" content="Real-time RSS feeds for Advance Articles and Online First papers from 9 premier academic marketing journals: JCR, JAMS, JM, JMR, JCP, IJRM, JR, JSR, and MS.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -30,7 +30,7 @@
       padding: 2.5rem 1rem;
     }
     .container {
-      max-width: 880px;
+      max-width: 1080px;
       margin: 0 auto;
     }
     header {
@@ -47,7 +47,7 @@
     .subtitle {
       color: var(--text-muted);
       font-size: 1.05rem;
-      max-width: 600px;
+      max-width: 750px;
       margin: 0 auto;
     }
     .status-bar {
@@ -75,14 +75,17 @@
       gap: 1.75rem;
       margin-bottom: 3rem;
     }
-    @media (min-width: 768px) {
-      .grid { grid-template-columns: 1fr 1fr; }
+    @media (min-width: 640px) {
+      .grid { grid-template-columns: repeat(2, 1fr); }
+    }
+    @media (min-width: 1024px) {
+      .grid { grid-template-columns: repeat(3, 1fr); }
     }
     .card {
       background-color: var(--card-bg);
       border: 1px solid var(--border);
       border-radius: 1rem;
-      padding: 1.75rem;
+      padding: 1.5rem;
       display: flex;
       flex-direction: column;
       justify-content: space-between;
@@ -96,7 +99,7 @@
       display: flex;
       justify-content: space-between;
       align-items: flex-start;
-      margin-bottom: 1rem;
+      margin-bottom: 0.75rem;
     }
     .journal-tag {
       background: var(--badge-bg);
@@ -108,43 +111,44 @@
       text-transform: uppercase;
     }
     .card-title {
-      font-size: 1.25rem;
+      font-size: 1.15rem;
       font-weight: 600;
-      margin-bottom: 0.5rem;
+      margin-bottom: 0.35rem;
+      line-height: 1.35;
     }
     .publisher {
       color: var(--text-muted);
-      font-size: 0.9rem;
-      margin-bottom: 1rem;
+      font-size: 0.85rem;
+      margin-bottom: 0.85rem;
     }
     .meta-box {
       background: #0f172a80;
       border: 1px solid var(--border);
       border-radius: 0.5rem;
-      padding: 0.85rem;
-      margin-bottom: 1.25rem;
-      font-size: 0.85rem;
+      padding: 0.75rem;
+      margin-bottom: 1rem;
+      font-size: 0.82rem;
     }
     .meta-row {
       display: flex;
       justify-content: space-between;
-      margin-bottom: 0.3rem;
+      margin-bottom: 0.25rem;
     }
     .meta-row:last-child { margin-bottom: 0; }
     .meta-label { color: var(--text-muted); }
     .meta-value { font-weight: 500; text-align: right; }
     .rss-url-container {
       position: relative;
-      margin-bottom: 1rem;
+      margin-bottom: 0.85rem;
     }
     .rss-input {
       width: 100%;
       background-color: #0f172a;
       border: 1px solid var(--border);
       border-radius: 0.5rem;
-      padding: 0.65rem 0.85rem;
+      padding: 0.55rem 0.75rem;
       color: var(--text);
-      font-size: 0.85rem;
+      font-size: 0.8rem;
       font-family: monospace;
       outline: none;
     }
@@ -159,9 +163,9 @@
       display: inline-flex;
       align-items: center;
       justify-content: center;
-      padding: 0.65rem 1rem;
+      padding: 0.55rem 0.85rem;
       border-radius: 0.5rem;
-      font-size: 0.9rem;
+      font-size: 0.85rem;
       font-weight: 500;
       text-decoration: none;
       cursor: pointer;
@@ -180,7 +184,7 @@
     .btn-secondary {
       background-color: #334155;
       color: var(--text);
-      padding: 0.65rem 0.85rem;
+      padding: 0.55rem 0.75rem;
     }
     .btn-secondary:hover {
       background-color: #475569;
@@ -220,10 +224,10 @@
   <div class="container">
     <header>
       <h1>Marketing Journal RSS Feeds</h1>
-      <p class="subtitle">Automatic tracking of Advance Articles & Online First papers from premier marketing journals.</p>
+      <p class="subtitle">Automatic tracking of Advance Articles, Accepted Manuscripts & Online First papers from 9 premier marketing journals.</p>
       <div class="status-bar">
         <span class="status-dot"></span>
-        <span>Auto-updated every 6h &bull; Last Generated: <strong>2026-08-29 20:08:19 UTC</strong></span>
+        <span>Auto-updated every 6h &bull; Last Generated: <strong>2026-08-30 00:43:08 UTC</strong></span>
       </div>
     </header>
 
@@ -232,7 +236,7 @@
       <div class="card">
         <div>
           <div class="card-header">
-            <span class="journal-tag">Advance Articles</span>
+            <span class="journal-tag">Advance Articles / Accepted Manuscripts</span>
             <span style="font-size: 0.85rem; color: var(--text-muted);">60 papers</span>
           </div>
           <h2 class="card-title">Journal of Consumer Research (JCR)</h2>
@@ -240,7 +244,7 @@
           <div class="meta-box">
             <div class="meta-row">
               <span class="meta-label">Coverage:</span>
-              <span class="meta-value">Accepted Manuscripts / Advance</span>
+              <span class="meta-value">Advance Articles / Accepted Manuscripts</span>
             </div>
             <div class="meta-row">
               <span class="meta-label">Latest Paper:</span>
@@ -265,7 +269,7 @@
       <div class="card">
         <div>
           <div class="card-header">
-            <span class="journal-tag">Online First</span>
+            <span class="journal-tag">Online First Articles</span>
             <span style="font-size: 0.85rem; color: var(--text-muted);">60 papers</span>
           </div>
           <h2 class="card-title">Journal of the Academy of Marketing Science (JAMS)</h2>
@@ -293,14 +297,245 @@
           <a class="btn btn-primary" href="jams.xml" target="_blank">View RSS XML</a>
         </div>
       </div>
+
+      <!-- JM Card -->
+      <div class="card">
+        <div>
+          <div class="card-header">
+            <span class="journal-tag">OnlineFirst Articles</span>
+            <span style="font-size: 0.85rem; color: var(--text-muted);">60 papers</span>
+          </div>
+          <h2 class="card-title">Journal of Marketing (JM)</h2>
+          <p class="publisher">Publisher: SAGE Publications / AMA</p>
+          <div class="meta-box">
+            <div class="meta-row">
+              <span class="meta-label">Coverage:</span>
+              <span class="meta-value">OnlineFirst Articles</span>
+            </div>
+            <div class="meta-row">
+              <span class="meta-label">Latest Paper:</span>
+              <span class="meta-value" style="max-width: 200px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;" title="EXPRESS: Agentic AI and the New Architecture of Marketing Relationships">EXPRESS: Agentic AI and the New Architecture of Marketing Relationships</span>
+            </div>
+            <div class="meta-row">
+              <span class="meta-label">Latest Date:</span>
+              <span class="meta-value">2026-08-21</span>
+            </div>
+          </div>
+          <div class="rss-url-container">
+            <input type="text" readonly class="rss-input" id="jm-url" value="https://qinhuanyu.github.io/marketing-journal-rss/jm.xml">
+          </div>
+        </div>
+        <div class="btn-group">
+          <button class="btn btn-secondary" onclick="navigator.clipboard.writeText(document.getElementById('jm-url').value); alert('JM RSS URL Copied!');">Copy URL</button>
+          <a class="btn btn-primary" href="jm.xml" target="_blank">View RSS XML</a>
+        </div>
+      </div>
+
+      <!-- JMR Card -->
+      <div class="card">
+        <div>
+          <div class="card-header">
+            <span class="journal-tag">OnlineFirst Articles</span>
+            <span style="font-size: 0.85rem; color: var(--text-muted);">60 papers</span>
+          </div>
+          <h2 class="card-title">Journal of Marketing Research (JMR)</h2>
+          <p class="publisher">Publisher: SAGE Publications / AMA</p>
+          <div class="meta-box">
+            <div class="meta-row">
+              <span class="meta-label">Coverage:</span>
+              <span class="meta-value">OnlineFirst Articles</span>
+            </div>
+            <div class="meta-row">
+              <span class="meta-label">Latest Paper:</span>
+              <span class="meta-value" style="max-width: 200px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;" title="EXPRESS: Predicting the Memorability of Brand Slogans">EXPRESS: Predicting the Memorability of Brand Slogans</span>
+            </div>
+            <div class="meta-row">
+              <span class="meta-label">Latest Date:</span>
+              <span class="meta-value">2026-08-21</span>
+            </div>
+          </div>
+          <div class="rss-url-container">
+            <input type="text" readonly class="rss-input" id="jmr-url" value="https://qinhuanyu.github.io/marketing-journal-rss/jmr.xml">
+          </div>
+        </div>
+        <div class="btn-group">
+          <button class="btn btn-secondary" onclick="navigator.clipboard.writeText(document.getElementById('jmr-url').value); alert('JMR RSS URL Copied!');">Copy URL</button>
+          <a class="btn btn-primary" href="jmr.xml" target="_blank">View RSS XML</a>
+        </div>
+      </div>
+
+      <!-- JCP Card -->
+      <div class="card">
+        <div>
+          <div class="card-header">
+            <span class="journal-tag">Early View Articles</span>
+            <span style="font-size: 0.85rem; color: var(--text-muted);">56 papers</span>
+          </div>
+          <h2 class="card-title">Journal of Consumer Psychology (JCP)</h2>
+          <p class="publisher">Publisher: Wiley / SCP</p>
+          <div class="meta-box">
+            <div class="meta-row">
+              <span class="meta-label">Coverage:</span>
+              <span class="meta-value">Early View Articles</span>
+            </div>
+            <div class="meta-row">
+              <span class="meta-label">Latest Paper:</span>
+              <span class="meta-value" style="max-width: 200px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;" title="Generative grounded theory ( GGT ): Inductive theory building in the age of generative AI">Generative grounded theory ( GGT ): Inductive theory building in the age of generative AI</span>
+            </div>
+            <div class="meta-row">
+              <span class="meta-label">Latest Date:</span>
+              <span class="meta-value">2026-08-06</span>
+            </div>
+          </div>
+          <div class="rss-url-container">
+            <input type="text" readonly class="rss-input" id="jcp-url" value="https://qinhuanyu.github.io/marketing-journal-rss/jcp.xml">
+          </div>
+        </div>
+        <div class="btn-group">
+          <button class="btn btn-secondary" onclick="navigator.clipboard.writeText(document.getElementById('jcp-url').value); alert('JCP RSS URL Copied!');">Copy URL</button>
+          <a class="btn btn-primary" href="jcp.xml" target="_blank">View RSS XML</a>
+        </div>
+      </div>
+
+      <!-- IJRM Card -->
+      <div class="card">
+        <div>
+          <div class="card-header">
+            <span class="journal-tag">Articles in Press / Online First</span>
+            <span style="font-size: 0.85rem; color: var(--text-muted);">60 papers</span>
+          </div>
+          <h2 class="card-title">International Journal of Research in Marketing (IJRM)</h2>
+          <p class="publisher">Publisher: Elsevier / EMAC</p>
+          <div class="meta-box">
+            <div class="meta-row">
+              <span class="meta-label">Coverage:</span>
+              <span class="meta-value">Articles in Press / Online First</span>
+            </div>
+            <div class="meta-row">
+              <span class="meta-label">Latest Paper:</span>
+              <span class="meta-value" style="max-width: 200px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;" title="How discourse concentration and content valence drive engagement with conversational content">How discourse concentration and content valence drive engagement with conversational content</span>
+            </div>
+            <div class="meta-row">
+              <span class="meta-label">Latest Date:</span>
+              <span class="meta-value">2026-08-07</span>
+            </div>
+          </div>
+          <div class="rss-url-container">
+            <input type="text" readonly class="rss-input" id="ijrm-url" value="https://qinhuanyu.github.io/marketing-journal-rss/ijrm.xml">
+          </div>
+        </div>
+        <div class="btn-group">
+          <button class="btn btn-secondary" onclick="navigator.clipboard.writeText(document.getElementById('ijrm-url').value); alert('IJRM RSS URL Copied!');">Copy URL</button>
+          <a class="btn btn-primary" href="ijrm.xml" target="_blank">View RSS XML</a>
+        </div>
+      </div>
+
+      <!-- JR Card -->
+      <div class="card">
+        <div>
+          <div class="card-header">
+            <span class="journal-tag">Articles in Press / Online First</span>
+            <span style="font-size: 0.85rem; color: var(--text-muted);">60 papers</span>
+          </div>
+          <h2 class="card-title">Journal of Retailing (JR)</h2>
+          <p class="publisher">Publisher: Elsevier</p>
+          <div class="meta-box">
+            <div class="meta-row">
+              <span class="meta-label">Coverage:</span>
+              <span class="meta-value">Articles in Press / Online First</span>
+            </div>
+            <div class="meta-row">
+              <span class="meta-label">Latest Paper:</span>
+              <span class="meta-value" style="max-width: 200px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;" title="Influencers’ perceived expertise in social media retailing: Multimodal machine learning with data fusion">Influencers’ perceived expertise in social media retailing: Multimodal machine learning with data fusion</span>
+            </div>
+            <div class="meta-row">
+              <span class="meta-label">Latest Date:</span>
+              <span class="meta-value">2026-08-26</span>
+            </div>
+          </div>
+          <div class="rss-url-container">
+            <input type="text" readonly class="rss-input" id="jr-url" value="https://qinhuanyu.github.io/marketing-journal-rss/jr.xml">
+          </div>
+        </div>
+        <div class="btn-group">
+          <button class="btn btn-secondary" onclick="navigator.clipboard.writeText(document.getElementById('jr-url').value); alert('JR RSS URL Copied!');">Copy URL</button>
+          <a class="btn btn-primary" href="jr.xml" target="_blank">View RSS XML</a>
+        </div>
+      </div>
+
+      <!-- JSR Card -->
+      <div class="card">
+        <div>
+          <div class="card-header">
+            <span class="journal-tag">OnlineFirst Articles</span>
+            <span style="font-size: 0.85rem; color: var(--text-muted);">60 papers</span>
+          </div>
+          <h2 class="card-title">Journal of Service Research (JSR)</h2>
+          <p class="publisher">Publisher: SAGE Publications</p>
+          <div class="meta-box">
+            <div class="meta-row">
+              <span class="meta-label">Coverage:</span>
+              <span class="meta-value">OnlineFirst Articles</span>
+            </div>
+            <div class="meta-row">
+              <span class="meta-label">Latest Paper:</span>
+              <span class="meta-value" style="max-width: 200px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;" title="Dignify: A Dignity-Based Conceptual Framework for Defining Consumer Vulnerability in Services">Dignify: A Dignity-Based Conceptual Framework for Defining Consumer Vulnerability in Services</span>
+            </div>
+            <div class="meta-row">
+              <span class="meta-label">Latest Date:</span>
+              <span class="meta-value">2026-08-26</span>
+            </div>
+          </div>
+          <div class="rss-url-container">
+            <input type="text" readonly class="rss-input" id="jsr-url" value="https://qinhuanyu.github.io/marketing-journal-rss/jsr.xml">
+          </div>
+        </div>
+        <div class="btn-group">
+          <button class="btn btn-secondary" onclick="navigator.clipboard.writeText(document.getElementById('jsr-url').value); alert('JSR RSS URL Copied!');">Copy URL</button>
+          <a class="btn btn-primary" href="jsr.xml" target="_blank">View RSS XML</a>
+        </div>
+      </div>
+
+      <!-- MS Card -->
+      <div class="card">
+        <div>
+          <div class="card-header">
+            <span class="journal-tag">Articles in Advance / Online First</span>
+            <span style="font-size: 0.85rem; color: var(--text-muted);">59 papers</span>
+          </div>
+          <h2 class="card-title">Marketing Science (MS)</h2>
+          <p class="publisher">Publisher: INFORMS</p>
+          <div class="meta-box">
+            <div class="meta-row">
+              <span class="meta-label">Coverage:</span>
+              <span class="meta-value">Articles in Advance / Online First</span>
+            </div>
+            <div class="meta-row">
+              <span class="meta-label">Latest Paper:</span>
+              <span class="meta-value" style="max-width: 200px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;" title="An Empirical Investigation of a Digital Platform’s Release Strategy for Serialized Content">An Empirical Investigation of a Digital Platform’s Release Strategy for Serialized Content</span>
+            </div>
+            <div class="meta-row">
+              <span class="meta-label">Latest Date:</span>
+              <span class="meta-value">2026-08-19</span>
+            </div>
+          </div>
+          <div class="rss-url-container">
+            <input type="text" readonly class="rss-input" id="ms-url" value="https://qinhuanyu.github.io/marketing-journal-rss/ms.xml">
+          </div>
+        </div>
+        <div class="btn-group">
+          <button class="btn btn-secondary" onclick="navigator.clipboard.writeText(document.getElementById('ms-url').value); alert('MS RSS URL Copied!');">Copy URL</button>
+          <a class="btn btn-primary" href="ms.xml" target="_blank">View RSS XML</a>
+        </div>
+      </div>
     </div>
 
     <div class="info-section">
-      <h2>How to Subscribe in RSS Readers & Tools</h2>
+      <h2>How to Subscribe in RSS Readers & Zotero</h2>
       <ul>
-        <li><strong>Feedly / Inoreader / NetNewsWire:</strong> Click "Add Feed" and paste either RSS URL above.</li>
-        <li><strong>Zotero:</strong> In Zotero, click File &rarr; New Library &rarr; New Feed &rarr; From URL, and enter the RSS feed URL to auto-import newly accepted marketing research papers.</li>
-        <li><strong>Updates:</strong> GitHub Actions runs every 6 hours automatically to fetch and publish new papers without manual intervention.</li>
+        <li><strong>Feedly / Inoreader / NetNewsWire:</strong> Click "Add Feed" / "Subscribe" and paste any of the RSS URLs above.</li>
+        <li><strong>Zotero:</strong> In Zotero, click File &rarr; New Library &rarr; New Feed &rarr; From URL, and enter the RSS feed URL to auto-import newly accepted marketing research papers with full bibliographic citations.</li>
+        <li><strong>Automated Updates:</strong> GitHub Actions runs every 6 hours automatically to fetch and publish new papers without manual intervention.</li>
       </ul>
     </div>
 
