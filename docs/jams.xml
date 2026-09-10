@@ -5,9 +5,17 @@
     <link>https://link.springer.com/journal/11747/online-first</link>
     <description>Latest Online First articles from Journal of the Academy of Marketing Science (JAMS)</description>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Sep 2026 02:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 10:13:31 +0000</lastBuildDate>
     <generator>MarketingJournalRSS Bot (https://github.com/qinhuanyu/marketing-journal-rss)</generator>
     <atom:link href="https://qinhuanyu.github.io/marketing-journal-rss/jams.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The more, the better? The sustainable additive bias</title>
+      <link>https://link.springer.com/article/10.1007/s11747-026-01201-0</link>
+      <guid isPermaLink="false">10.1007/s11747-026-01201-0</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Linda Lemarié, Diletta Acuti, Marta Pizzetti, Giampaolo Viglia</dc:creator>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Linda Lemarié, Diletta Acuti, Marta Pizzetti, Giampaolo Viglia&lt;/p&gt;&lt;p&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&quot;https://doi.org/10.1007/s11747-026-01201-0&quot; target=&quot;_blank&quot;&gt;10.1007/s11747-026-01201-0&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Online First&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Online Publication Date:&lt;/strong&gt; 2026-09-10&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;We demonstrate that adding eco-friendly components to offerings improves sustainability judgments, whereas reducing or removing such components—despite potential sustainability gains—receives little recognition. We call this asymmetry the sustainable additive bias . Across nine studies, including a field and a lab experiment, we demonstrate the existence of this bias and uncover its underlying mechanism and boundary conditions. We show that companies are judged more sustainable when they add, rather than subtract, eco-components. This asymmetry is specific to eco-friendly components: consumers recognize the sustainability benefits of removing traditional, less environmentally friendly components. The bias arises because additive changes signal greater environmental effort on the part of the company and is attenuated by prototypicality—that is, the extent to which a component represents a typical example of sustainability. Overall, our findings highlight how environmental cues can distort sustainability judgments and favor additive changes that may be counterproductive to genuine sustainability. We describe the implications of this bias and actions to reduce it.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://link.springer.com/article/10.1007/s11747-026-01201-0&quot; target=&quot;_blank&quot;&gt;Read Full Article at Publisher &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>A dual-LSTM model for CLV distributions: Diverging paths and bimodalities</title>
       <link>https://link.springer.com/article/10.1007/s11747-026-01193-x</link>
@@ -153,20 +161,20 @@
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Andreas B. Eisingerich, Deborah J. MacInnis, Barbara Duffek, Winze Tam&lt;/p&gt;&lt;p&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&quot;https://doi.org/10.1007/s11747-026-01179-9&quot; target=&quot;_blank&quot;&gt;10.1007/s11747-026-01179-9&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Volume 54, Issue 4&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Online Publication Date:&lt;/strong&gt; 2026-07-24&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;The authors offer a systems-level, managerial and strategic framework that organizes cross-disciplinary evidence on how marketing has harmed consumers, and most importantly to offer thoughts on how marketing might instead make well-being a central component of value creation.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://link.springer.com/article/10.1007/s11747-026-01179-9&quot; target=&quot;_blank&quot;&gt;Read Full Article at Publisher &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>To swear or not to swear: Exploring the role of profanity in influencer marketing</title>
-      <link>https://link.springer.com/article/10.1007/s11747-026-01183-z</link>
-      <guid isPermaLink="false">10.1007/s11747-026-01183-z</guid>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-      <dc:creator>Mahdi Niknejad Moghadam, Vijay Mahajan</dc:creator>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Mahdi Niknejad Moghadam, Vijay Mahajan&lt;/p&gt;&lt;p&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&quot;https://doi.org/10.1007/s11747-026-01183-z&quot; target=&quot;_blank&quot;&gt;10.1007/s11747-026-01183-z&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Volume 54, Issue 4&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Online Publication Date:&lt;/strong&gt; 2026-07-24&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;Influencers play a central role in promoting products and services on digital platforms. Understanding the impact of their linguistic choices, including the use of profanity, is therefore important for marketers seeking to engage target audiences. This study investigates how influencers’ profanity usage shapes user engagement. The authors analyze videos shared by influencers on a popular video-sharing platform and extract auditory, visual, and verbal features using a range of machine-learning tools. The findings indicate that profanity in focal content is associated with lower engagement, with a substantially larger effect in categories where profanity is less normatively expected. This negative effect is more pronounced when influencers are female, when the post is sponsored, or when the content is otherwise polite. At the same time, an influencer’s profanity history attenuates this effect, though this adaptation is constrained in categories where profanity is less normative. In these settings, consistent usage can even amplify negative reactions. These results indicate that the engagement consequences of profanity in influencer marketing are shaped by category-level norms and the influencer’s established communicative style. The findings offer important implications for marketers, influencers, and platform owners.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://link.springer.com/article/10.1007/s11747-026-01183-z&quot; target=&quot;_blank&quot;&gt;Read Full Article at Publisher &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Automated social presence in artificial agents: A conventional and qualitative comparative meta-analysis</title>
       <link>https://doi.org/10.1007/s11747-026-01177-x</link>
       <guid isPermaLink="false">10.1007/s11747-026-01177-x</guid>
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
       <dc:creator>Antoine Juquelier, Simon Hazée, Yves Van Vaerenbergh, Ingrid Poncin</dc:creator>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Antoine Juquelier, Simon Hazée, Yves Van Vaerenbergh, Ingrid Poncin&lt;/p&gt;&lt;p&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&quot;https://doi.org/10.1007/s11747-026-01177-x&quot; target=&quot;_blank&quot;&gt;10.1007/s11747-026-01177-x&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Online First&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Online Publication Date:&lt;/strong&gt; 2026-07-24&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://doi.org/10.1007/s11747-026-01177-x&quot; target=&quot;_blank&quot;&gt;Read Full Article at Publisher &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>To swear or not to swear: Exploring the role of profanity in influencer marketing</title>
+      <link>https://doi.org/10.1007/s11747-026-01183-z</link>
+      <guid isPermaLink="false">10.1007/s11747-026-01183-z</guid>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Mahdi Niknejad Moghadam, Vijay Mahajan</dc:creator>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Mahdi Niknejad Moghadam, Vijay Mahajan&lt;/p&gt;&lt;p&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&quot;https://doi.org/10.1007/s11747-026-01183-z&quot; target=&quot;_blank&quot;&gt;10.1007/s11747-026-01183-z&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Volume 54, Issue 4&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Online Publication Date:&lt;/strong&gt; 2026-07-24&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;Influencers play a central role in promoting products and services on digital platforms. Understanding the impact of their linguistic choices, including the use of profanity, is therefore important for marketers seeking to engage target audiences. This study investigates how influencers’ profanity usage shapes user engagement. The authors analyze videos shared by influencers on a popular video-sharing platform and extract auditory, visual, and verbal features using a range of machine-learning tools. The findings indicate that profanity in focal content is associated with lower engagement, with a substantially larger effect in categories where profanity is less normatively expected. This negative effect is more pronounced when influencers are female, when the post is sponsored, or when the content is otherwise polite. At the same time, an influencer’s profanity history attenuates this effect, though this adaptation is constrained in categories where profanity is less normative. In these settings, consistent usage can even amplify negative reactions. These results indicate that the engagement consequences of profanity in influencer marketing are shaped by category-level norms and the influencer’s established communicative style. The findings offer important implications for marketers, influencers, and platform owners.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://doi.org/10.1007/s11747-026-01183-z&quot; target=&quot;_blank&quot;&gt;Read Full Article at Publisher &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Process and outcome frames in firms’ environmental posts and consumer engagement</title>
@@ -479,14 +487,6 @@
       <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
       <dc:creator>Na Young Lee, Andrew Edelblum, Kevin Park, Alex Ricardo Zablah</dc:creator>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Na Young Lee, Andrew Edelblum, Kevin Park, Alex Ricardo Zablah&lt;/p&gt;&lt;p&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&quot;https://doi.org/10.1007/s11747-026-01145-5&quot; target=&quot;_blank&quot;&gt;10.1007/s11747-026-01145-5&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Volume 54, Issue 3&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Online Publication Date:&lt;/strong&gt; 2026-04-10&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://doi.org/10.1007/s11747-026-01145-5&quot; target=&quot;_blank&quot;&gt;Read Full Article at Publisher &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Using latent profile analysis to advance job demands–resources theory: An empirical demonstration in the sales context</title>
-      <link>https://doi.org/10.1007/s11747-025-01140-2</link>
-      <guid isPermaLink="false">10.1007/s11747-025-01140-2</guid>
-      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
-      <dc:creator>Lisa Beeler, Ryan Mullins, Johannes Habel</dc:creator>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Lisa Beeler, Ryan Mullins, Johannes Habel&lt;/p&gt;&lt;p&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&quot;https://doi.org/10.1007/s11747-025-01140-2&quot; target=&quot;_blank&quot;&gt;10.1007/s11747-025-01140-2&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Volume 54, Issue 3&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Online Publication Date:&lt;/strong&gt; 2026-04-10&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://doi.org/10.1007/s11747-025-01140-2&quot; target=&quot;_blank&quot;&gt;Read Full Article at Publisher &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
