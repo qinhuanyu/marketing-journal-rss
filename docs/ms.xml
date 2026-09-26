@@ -5,9 +5,17 @@
     <link>https://pubsonline.informs.org/toc/mksc/0/0</link>
     <description>Latest Articles in Advance from Marketing Science (MS)</description>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Sep 2026 20:51:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 02:29:16 +0000</lastBuildDate>
     <generator>MarketingJournalRSS Bot (https://github.com/qinhuanyu/marketing-journal-rss)</generator>
     <atom:link href="https://qinhuanyu.github.io/marketing-journal-rss/ms.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Thank You, Now What? How Donors Respond to Calls to Action</title>
+      <link>https://doi.org/10.1287/mksc.2025.0394</link>
+      <guid isPermaLink="false">10.1287/mksc.2025.0394</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <dc:creator>K. Sudhir, Hortense Fong, Yonat Zwebner, Subroto Roy</dc:creator>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; K. Sudhir, Hortense Fong, Yonat Zwebner, Subroto Roy&lt;/p&gt;&lt;p&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&quot;https://doi.org/10.1287/mksc.2025.0394&quot; target=&quot;_blank&quot;&gt;10.1287/mksc.2025.0394&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Articles in Advance / Online First&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Online Publication Date:&lt;/strong&gt; 2026-09-25&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;We study whether thank-you communications charities send to past donors should include a call to action (CTA), a direct request to give again, and show that the answer depends on whether the donor has already given in the current giving cycle. Although CTAs can clarify desired behavior and increase compliance, they may backfire when the request asks for giving beyond a donor’s typical cadence and violates expectations about when requests are appropriate. In a field experiment with 35,077 prior donors to a major Indian charity, we compare thank-you letters that include a CTA with otherwise identical letters without one. Response rates are low, as is typical in direct mail, with 0.69% of recipients giving. The CTA x recency interaction is statistically significant for donation amounts. Among donors who have not yet given in the current cycle, the CTA significantly increases giving, whereas among donors who have already given, point estimates indicate lower giving. The CTA helps one segment but is associated with lower giving in the other, so aggregate evaluations mask this heterogeneity. The results suggest that a donor’s giving status within the current cycle, a simple observable characteristic, can improve the targeting of fundraising communications and meaningfully affect revenue.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://doi.org/10.1287/mksc.2025.0394&quot; target=&quot;_blank&quot;&gt;Read Full Article at Publisher &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Returnless Partial Refunds: A Large-Scale Field Experiment in E-Commerce</title>
       <link>https://doi.org/10.1287/mksc.2025.0618</link>
@@ -479,14 +487,6 @@
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
       <dc:creator>Luis Aguiar</dc:creator>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Luis Aguiar&lt;/p&gt;&lt;p&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&quot;https://doi.org/10.1287/mksc.2023.0236&quot; target=&quot;_blank&quot;&gt;10.1287/mksc.2023.0236&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Volume 45, Issue 1&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Online Publication Date:&lt;/strong&gt; 2026-01-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;This paper shows that movie crowd reviewers provide evaluations that are biased against movies with a stronger female presence relative to professional critics.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://doi.org/10.1287/mksc.2023.0236&quot; target=&quot;_blank&quot;&gt;Read Full Article at Publisher &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Evolution of Discrimination in Online Markets: How the Rise in Anti-Asian Bias Affected Airbnb During the Pandemic</title>
-      <link>https://doi.org/10.1287/mksc.2023.0112</link>
-      <guid isPermaLink="false">10.1287/mksc.2023.0112</guid>
-      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <dc:creator>Michael Luca, Elizaveta Pronkina, Michelangelo Rossi</dc:creator>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Michael Luca, Elizaveta Pronkina, Michelangelo Rossi&lt;/p&gt;&lt;p&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&quot;https://doi.org/10.1287/mksc.2023.0112&quot; target=&quot;_blank&quot;&gt;10.1287/mksc.2023.0112&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Volume 45, Issue 1&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Online Publication Date:&lt;/strong&gt; 2026-01-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;Anti-Asian bias surged on Airbnb during COVID-19. Hosts with Asian names experienced a 20% decline in guests, resulting in $180–$330 monthly losses.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://doi.org/10.1287/mksc.2023.0112&quot; target=&quot;_blank&quot;&gt;Read Full Article at Publisher &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
