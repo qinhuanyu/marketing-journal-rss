@@ -5,9 +5,17 @@
     <link>https://pubsonline.informs.org/toc/mksc/0/0</link>
     <description>Latest Articles in Advance from Marketing Science (MS)</description>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Oct 2026 12:16:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 22:24:53 +0000</lastBuildDate>
     <generator>MarketingJournalRSS Bot (https://github.com/qinhuanyu/marketing-journal-rss)</generator>
     <atom:link href="https://qinhuanyu.github.io/marketing-journal-rss/ms.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>From Live to Recording: Consumer Demand and Response to Price Across the Livestreaming Lifecycle</title>
+      <link>https://doi.org/10.1287/mksc.2024.1281</link>
+      <guid isPermaLink="false">10.1287/mksc.2024.1281</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Ziwei Cong, Jia Liu, Puneet Manchanda</dc:creator>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Ziwei Cong, Jia Liu, Puneet Manchanda&lt;/p&gt;&lt;p&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&quot;https://doi.org/10.1287/mksc.2024.1281&quot; target=&quot;_blank&quot;&gt;10.1287/mksc.2024.1281&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Articles in Advance / Online First&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Online Publication Date:&lt;/strong&gt; 2026-10-07&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;Using data from a knowledge-sharing platform that sells recorded versions of paid livestreams, this paper finds that demand is surprisingly more price sensitive before the event than after, which is explained partly by consumer self-selection and the lower quality uncertainty once the livestream ends.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://doi.org/10.1287/mksc.2024.1281&quot; target=&quot;_blank&quot;&gt;Read Full Article at Publisher &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Visual Plant Imagery and Property Valuation: A Descriptive Analysis</title>
       <link>https://doi.org/10.1287/mksc.2025.0145</link>
@@ -479,14 +487,6 @@
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
       <dc:creator>Miguel Godinho de Matos, Samir Mamadehussene, Pedro Ferreira</dc:creator>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Miguel Godinho de Matos, Samir Mamadehussene, Pedro Ferreira&lt;/p&gt;&lt;p&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&quot;https://doi.org/10.1287/mksc.2023.0106&quot; target=&quot;_blank&quot;&gt;10.1287/mksc.2023.0106&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Volume 45, Issue 1&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Online Publication Date:&lt;/strong&gt; 2026-01-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;A field experiment shows that gradual content release boosts engagement and retention more than binge release on a streaming platform.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://doi.org/10.1287/mksc.2023.0106&quot; target=&quot;_blank&quot;&gt;Read Full Article at Publisher &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Shrinkflation and Consumer Demand</title>
-      <link>https://doi.org/10.1287/mksc.2024.0948</link>
-      <guid isPermaLink="false">10.1287/mksc.2024.0948</guid>
-      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <dc:creator>Aljoscha Janssen, Johannes Kasinger</dc:creator>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Aljoscha Janssen, Johannes Kasinger&lt;/p&gt;&lt;p&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&quot;https://doi.org/10.1287/mksc.2024.0948&quot; target=&quot;_blank&quot;&gt;10.1287/mksc.2024.0948&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Volume 45, Issue 1&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Online Publication Date:&lt;/strong&gt; 2026-01-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;Using decade-long U.S. grocery scanner data, we quantify shrinkflation’s prevalence and show consumers scarcely adjust demand despite higher per-ounce prices.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://doi.org/10.1287/mksc.2024.0948&quot; target=&quot;_blank&quot;&gt;Read Full Article at Publisher &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
