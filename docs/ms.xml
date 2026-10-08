@@ -5,9 +5,17 @@
     <link>https://pubsonline.informs.org/toc/mksc/0/0</link>
     <description>Latest Articles in Advance from Marketing Science (MS)</description>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Oct 2026 12:26:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 22:37:59 +0000</lastBuildDate>
     <generator>MarketingJournalRSS Bot (https://github.com/qinhuanyu/marketing-journal-rss)</generator>
     <atom:link href="https://qinhuanyu.github.io/marketing-journal-rss/ms.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Identification of the Dynamic Discrete-Choice Model with Stockpiling</title>
+      <link>https://doi.org/10.1287/mksc.2024.1280</link>
+      <guid isPermaLink="false">10.1287/mksc.2024.1280</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Xinyao Kong, Jean-Pierre Dubé, Vaness Alwan</dc:creator>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Xinyao Kong, Jean-Pierre Dubé, Vaness Alwan&lt;/p&gt;&lt;p&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&quot;https://doi.org/10.1287/mksc.2024.1280&quot; target=&quot;_blank&quot;&gt;10.1287/mksc.2024.1280&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Articles in Advance / Online First&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Online Publication Date:&lt;/strong&gt; 2026-10-08&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;We study the identification of the discount factor for dynamic discrete-choice (DDC) models of demand with stockpiling of a storable good. We show that the DDC has built-in exclusion restrictions that set-identify the discount factor without requiring any auxiliary assumptions. We compare this approach to previous work that assumes auxiliary structure on the storage cost function, clarifying how such structure generates exclusion restrictions and the corresponding data moments used for identification. Our key results show that these auxiliary restrictions are not necessary for identification; but that they are testable and can be included to achieve point identification and improve statistical efficiency. Using a case study of laundry detergent from earlier published work, we find a mean discount factor estimate of $0.957$, rejecting myopic models of choice in favor of the dynamic model. In counterfactual simulations, we show that some of the promotional lift during a discount period is indeed due to forward-buying. However, we predict considerably higher incremental sales compared to a standard discrete-choice model, which predicts that promotional discounts mainly cause substitution between brands. These results contribute to the long-standing discussion about the effectiveness of price promotions.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://doi.org/10.1287/mksc.2024.1280&quot; target=&quot;_blank&quot;&gt;Read Full Article at Publisher &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>From Live to Recording: Consumer Demand and Response to Price Across the Livestreaming Lifecycle</title>
       <link>https://doi.org/10.1287/mksc.2024.1281</link>
@@ -479,14 +487,6 @@
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
       <dc:creator>Sarah Moshary, Anna Tuchman, Natasha Vajravelu</dc:creator>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Sarah Moshary, Anna Tuchman, Natasha Vajravelu&lt;/p&gt;&lt;p&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&quot;https://doi.org/10.1287/mksc.2023.1452&quot; target=&quot;_blank&quot;&gt;10.1287/mksc.2023.1452&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Volume 45, Issue 1&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Online Publication Date:&lt;/strong&gt; 2026-01-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;This paper studies the extent to which firms segment, differentiate, and price discriminate on the basis of gender in the personal care category.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://doi.org/10.1287/mksc.2023.1452&quot; target=&quot;_blank&quot;&gt;Read Full Article at Publisher &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>When Less Is More: Content Strategies for Subscription Video on Demand</title>
-      <link>https://doi.org/10.1287/mksc.2023.0106</link>
-      <guid isPermaLink="false">10.1287/mksc.2023.0106</guid>
-      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <dc:creator>Miguel Godinho de Matos, Samir Mamadehussene, Pedro Ferreira</dc:creator>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Miguel Godinho de Matos, Samir Mamadehussene, Pedro Ferreira&lt;/p&gt;&lt;p&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&quot;https://doi.org/10.1287/mksc.2023.0106&quot; target=&quot;_blank&quot;&gt;10.1287/mksc.2023.0106&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Volume 45, Issue 1&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Online Publication Date:&lt;/strong&gt; 2026-01-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;A field experiment shows that gradual content release boosts engagement and retention more than binge release on a streaming platform.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://doi.org/10.1287/mksc.2023.0106&quot; target=&quot;_blank&quot;&gt;Read Full Article at Publisher &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
