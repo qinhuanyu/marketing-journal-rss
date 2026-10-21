@@ -5,9 +5,17 @@
     <link>https://pubsonline.informs.org/toc/mksc/0/0</link>
     <description>Latest Articles in Advance from Marketing Science (MS)</description>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 02:27:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 10:48:00 +0000</lastBuildDate>
     <generator>MarketingJournalRSS Bot (https://github.com/qinhuanyu/marketing-journal-rss)</generator>
     <atom:link href="https://qinhuanyu.github.io/marketing-journal-rss/ms.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Effects of Search Interface on Consumer Preferences: Evidence from a Randomized Experiment</title>
+      <link>https://doi.org/10.1287/mksc.2025.0261</link>
+      <guid isPermaLink="false">10.1287/mksc.2025.0261</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Jia Liu, Olivier Toubia</dc:creator>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Jia Liu, Olivier Toubia&lt;/p&gt;&lt;p&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&quot;https://doi.org/10.1287/mksc.2025.0261&quot; target=&quot;_blank&quot;&gt;10.1287/mksc.2025.0261&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Articles in Advance / Online First&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Online Publication Date:&lt;/strong&gt; 2026-10-21&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;While structured search interfaces—such as filters and sorting tools—help consumers reduce search frictions on digital platforms, they also shape how consumers encounter product information during search. This paper studies how search interface design influences revealed preferences and market outcomes. We develop a theoretical framework linking interface design to attribute preferences through salience reallocation and information-based preference updating. The framework generates two predictions that can be formally derived: restricting faceted filters reduces the concentration of attribute importance weights (i.e., preference dispersion) and increases the diversity of products chosen (i.e., choice diversity). We test these predictions using a randomized, incentive-aligned online experiment in which 1,200 participants searched for wireless headphones on a custom-built e-commerce platform. Restricting filters led consumers to explore more broadly and resulted in more evenly distributed attribute importance weights and more diverse, higher-priced product choices. Mediation analysis further suggests that increased exploration was associated with shifts in attribute preferences. Our findings demonstrate that search interface design can construct, rather than merely reveal, consumer preferences.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://doi.org/10.1287/mksc.2025.0261&quot; target=&quot;_blank&quot;&gt;Read Full Article at Publisher &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The Motivational Paradox: How Aspirational-Goal Communications Influence Sales Performance and Information Acquisition</title>
       <link>https://doi.org/10.1287/mksc.2024.1051</link>
@@ -479,14 +487,6 @@
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
       <dc:creator>Xu Zhang, Junhong Chu, Puneet Manchanda</dc:creator>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Xu Zhang, Junhong Chu, Puneet Manchanda&lt;/p&gt;&lt;p&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&quot;https://doi.org/10.1287/mksc.2024.0922&quot; target=&quot;_blank&quot;&gt;10.1287/mksc.2024.0922&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Volume 45, Issue 2&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Online Publication Date:&lt;/strong&gt; 2026-03-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;A generalizable modeling framework integrating bargaining and participant-specific network effects to guide growth strategies for platforms built on negotiated partnerships.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://doi.org/10.1287/mksc.2024.0922&quot; target=&quot;_blank&quot;&gt;Read Full Article at Publisher &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Symbolic vs. Substantive Support: The Impact of Black Lives Matter on Black-Owned Businesses</title>
-      <link>https://doi.org/10.1287/mksc.2023.0243</link>
-      <guid isPermaLink="false">10.1287/mksc.2023.0243</guid>
-      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <dc:creator>Siddharth Sharma, Justin Frake, Jared Watson</dc:creator>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Siddharth Sharma, Justin Frake, Jared Watson&lt;/p&gt;&lt;p&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&quot;https://doi.org/10.1287/mksc.2023.0243&quot; target=&quot;_blank&quot;&gt;10.1287/mksc.2023.0243&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Volume 45, Issue 1&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Online Publication Date:&lt;/strong&gt; 2026-01-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;This study examines the impact of Black Lives Matter (BLM) on Black-owned businesses following the murder of George Floyd.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://doi.org/10.1287/mksc.2023.0243&quot; target=&quot;_blank&quot;&gt;Read Full Article at Publisher &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
