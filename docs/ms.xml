@@ -5,9 +5,33 @@
     <link>https://pubsonline.informs.org/toc/mksc/0/0</link>
     <description>Latest Articles in Advance from Marketing Science (MS)</description>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2026 17:26:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 21:46:35 +0000</lastBuildDate>
     <generator>MarketingJournalRSS Bot (https://github.com/qinhuanyu/marketing-journal-rss)</generator>
     <atom:link href="https://qinhuanyu.github.io/marketing-journal-rss/ms.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Frontiers: Reducing Disparity Between LLMs and Humans: Optimal LLM Sample Calibration</title>
+      <link>https://doi.org/10.1287/mksc.2024.0983</link>
+      <guid isPermaLink="false">10.1287/mksc.2024.0983</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Yan Leng, Yunxin Sang, Ashish Agarwal</dc:creator>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Yan Leng, Yunxin Sang, Ashish Agarwal&lt;/p&gt;&lt;p&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&quot;https://doi.org/10.1287/mksc.2024.0983&quot; target=&quot;_blank&quot;&gt;10.1287/mksc.2024.0983&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Articles in Advance / Online First&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Online Publication Date:&lt;/strong&gt; 2026-10-30&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;Large language models (LLMs) are increasingly used to measure human preferences and opinions, but their outputs can diverge from human responses. We introduce human mimicry calibration (HuMCal), a post hoc, model-agnostic method that uses aggregate human benchmark data to learn how to combine LLM outputs from different prompts, personas, and model checkpoints. In applications to consumer transaction data and public opinion surveys, HuMCal improves agreement with human benchmarks over standard aggregation rules, and the calibrated weights often remain useful across time, geography, industry, and question clusters.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://doi.org/10.1287/mksc.2024.0983&quot; target=&quot;_blank&quot;&gt;Read Full Article at Publisher &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Experimental Evidence on Structural State Dependence in Demand</title>
+      <link>https://doi.org/10.1287/mksc.2024.1274</link>
+      <guid isPermaLink="false">10.1287/mksc.2024.1274</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Sebastian Gabel, Daniel Guhl, Günter J. Hitsch, Kyoung Hwan (Joe) Kook</dc:creator>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Sebastian Gabel, Daniel Guhl, Günter J. Hitsch, Kyoung Hwan (Joe) Kook&lt;/p&gt;&lt;p&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&quot;https://doi.org/10.1287/mksc.2024.1274&quot; target=&quot;_blank&quot;&gt;10.1287/mksc.2024.1274&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Articles in Advance / Online First&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Online Publication Date:&lt;/strong&gt; 2026-10-30&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;The paper provides nonparametric estimates of structural state dependence from a natural field experiment for 223 brands.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://doi.org/10.1287/mksc.2024.1274&quot; target=&quot;_blank&quot;&gt;Read Full Article at Publisher &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Injunctive Norms Outperform Reciprocity: Tip Request Messages Can Increase Tipping Without Reducing Demand</title>
+      <link>https://doi.org/10.1287/mksc.2025.0392</link>
+      <guid isPermaLink="false">10.1287/mksc.2025.0392</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Seung Hyun Kim, On Amir, Kenneth C. Wilbur</dc:creator>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Seung Hyun Kim, On Amir, Kenneth C. Wilbur&lt;/p&gt;&lt;p&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&quot;https://doi.org/10.1287/mksc.2025.0392&quot; target=&quot;_blank&quot;&gt;10.1287/mksc.2025.0392&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Articles in Advance / Online First&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Online Publication Date:&lt;/strong&gt; 2026-10-30&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;Tip request messages are marketing communications that can help digital platforms balance customer spending with worker effort and compensation. We report the first field experiments testing how three appeals based on tipping motivations—injunctive norms (“It’s customary to leave a tip for the seller’s service”), personalized reciprocity, and impersonal reciprocity—affect tipping and future demand in a global freelance marketplace. Overall, the norms message increased tipping the most, and did so without reducing returning demand, showing that tip request messages can motivate customer tipping to better incentivize and compensate gig workers.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://doi.org/10.1287/mksc.2025.0392&quot; target=&quot;_blank&quot;&gt;Read Full Article at Publisher &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The Problem of Ignoring the Ignorability Assumption in Advertising Measurement: A Matrix Completion Solution</title>
       <link>https://doi.org/10.1287/mksc.2023.0382</link>
@@ -463,30 +487,6 @@
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
       <dc:creator>Dante Donati</dc:creator>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Dante Donati&lt;/p&gt;&lt;p&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&quot;https://doi.org/10.1287/mksc.2023.0482&quot; target=&quot;_blank&quot;&gt;10.1287/mksc.2023.0482&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Volume 45, Issue 2&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Online Publication Date:&lt;/strong&gt; 2026-03-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;This paper empirically examines how cheaper access to review platforms affects consumer behavior and firms’ incentives to improve product quality in markets where information is traditionally limited.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://doi.org/10.1287/mksc.2023.0482&quot; target=&quot;_blank&quot;&gt;Read Full Article at Publisher &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Frontiers: Content Quality Provision and Welfare Implications of Digital Platform Commission Fees</title>
-      <link>https://doi.org/10.1287/mksc.2024.1084</link>
-      <guid isPermaLink="false">10.1287/mksc.2024.1084</guid>
-      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-      <dc:creator>Siddhartha Sharma, Amit Mehra</dc:creator>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Siddhartha Sharma, Amit Mehra&lt;/p&gt;&lt;p&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&quot;https://doi.org/10.1287/mksc.2024.1084&quot; target=&quot;_blank&quot;&gt;10.1287/mksc.2024.1084&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Volume 45, Issue 2&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Online Publication Date:&lt;/strong&gt; 2026-03-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;The paper studies how commission fees charged by platforms affect innovation by digital content developers and consumer welfare.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://doi.org/10.1287/mksc.2024.1084&quot; target=&quot;_blank&quot;&gt;Read Full Article at Publisher &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Algorithmic Lending, Competition, and Strategic Provision of Preapproval Tools</title>
-      <link>https://doi.org/10.1287/mksc.2023.0164</link>
-      <guid isPermaLink="false">10.1287/mksc.2023.0164</guid>
-      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-      <dc:creator>Qiaochu Wang, Yan Huang, Param Singh</dc:creator>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Qiaochu Wang, Yan Huang, Param Singh&lt;/p&gt;&lt;p&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&quot;https://doi.org/10.1287/mksc.2023.0164&quot; target=&quot;_blank&quot;&gt;10.1287/mksc.2023.0164&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Volume 45, Issue 2&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Online Publication Date:&lt;/strong&gt; 2026-03-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;This paper theoretically studies financial lenders’ strategic decisions in providing preapproval checking tools, and shows such decisions could be asymmetric.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://doi.org/10.1287/mksc.2023.0164&quot; target=&quot;_blank&quot;&gt;Read Full Article at Publisher &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Exploring Peer Effects Associated with User Retention in a Socially Connected Business</title>
-      <link>https://doi.org/10.1287/mksc.2023.0391</link>
-      <guid isPermaLink="false">10.1287/mksc.2023.0391</guid>
-      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-      <dc:creator>Yijun Chen, Nitin Mehta</dc:creator>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Yijun Chen, Nitin Mehta&lt;/p&gt;&lt;p&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&quot;https://doi.org/10.1287/mksc.2023.0391&quot; target=&quot;_blank&quot;&gt;10.1287/mksc.2023.0391&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Volume 45, Issue 2&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Online Publication Date:&lt;/strong&gt; 2026-03-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;This paper analyzes peer effects in user retention, showing churn of high-centrality user causes negative cascades and informing targeted retention strategies.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://doi.org/10.1287/mksc.2023.0391&quot; target=&quot;_blank&quot;&gt;Read Full Article at Publisher &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
