@@ -5,9 +5,17 @@
     <link>https://pubsonline.informs.org/toc/mksc/0/0</link>
     <description>Latest Articles in Advance from Marketing Science (MS)</description>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Nov 2026 13:41:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 23:00:12 +0000</lastBuildDate>
     <generator>MarketingJournalRSS Bot (https://github.com/qinhuanyu/marketing-journal-rss)</generator>
     <atom:link href="https://qinhuanyu.github.io/marketing-journal-rss/ms.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Overall Evaluation Criteria for A/B Tests: A Meta-Analytic Approach</title>
+      <link>https://doi.org/10.1287/mksc.2025.0164</link>
+      <guid isPermaLink="false">10.1287/mksc.2025.0164</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Easton Huch, Stephanie A. Nail, Terran Melconian, Xan Vongsathorn, Fred Feinberg</dc:creator>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Easton Huch, Stephanie A. Nail, Terran Melconian, Xan Vongsathorn, Fred Feinberg&lt;/p&gt;&lt;p&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&quot;https://doi.org/10.1287/mksc.2025.0164&quot; target=&quot;_blank&quot;&gt;10.1287/mksc.2025.0164&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Articles in Advance / Online First&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Online Publication Date:&lt;/strong&gt; 2026-11-05&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;This paper discusses meta-analytic methods for estimating the value of marketing interventions given a database of historical A/B tests with multiple outcome variables.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://doi.org/10.1287/mksc.2025.0164&quot; target=&quot;_blank&quot;&gt;Read Full Article at Publisher &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Swap and Save: How a Button Shapes Lasting Online Grocery Shopping Behavior</title>
       <link>https://doi.org/10.1287/mksc.2025.0541</link>
@@ -479,14 +487,6 @@
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
       <dc:creator>Yan Cheng, Jingbo Wang, Xinyu Cao, Zuo-Jun Max Shen, Yuhui Zhang</dc:creator>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Yan Cheng, Jingbo Wang, Xinyu Cao, Zuo-Jun Max Shen, Yuhui Zhang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&quot;https://doi.org/10.1287/mksc.2023.0511&quot; target=&quot;_blank&quot;&gt;10.1287/mksc.2023.0511&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Volume 45, Issue 2&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Online Publication Date:&lt;/strong&gt; 2026-03-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;This paper develops a Deep-DiD method that integrates two deep neural networks into a difference-in-differences framework to estimate heterogeneous treatment effects and applies it to optimizing platform creator selection.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://doi.org/10.1287/mksc.2023.0511&quot; target=&quot;_blank&quot;&gt;Read Full Article at Publisher &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Safety Reviews on Airbnb: An Information Tale</title>
-      <link>https://doi.org/10.1287/mksc.2023.0552</link>
-      <guid isPermaLink="false">10.1287/mksc.2023.0552</guid>
-      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-      <dc:creator>Aron Culotta, Ginger Zhe Jin, Yidan Sun, Liad Wagman</dc:creator>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Aron Culotta, Ginger Zhe Jin, Yidan Sun, Liad Wagman&lt;/p&gt;&lt;p&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&quot;https://doi.org/10.1287/mksc.2023.0552&quot; target=&quot;_blank&quot;&gt;10.1287/mksc.2023.0552&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Volume 45, Issue 2&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Online Publication Date:&lt;/strong&gt; 2026-03-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;This paper studies a platform’s incentive to disclose and disseminate consumer reviews about the vicinity safety of short-term rental listings.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://doi.org/10.1287/mksc.2023.0552&quot; target=&quot;_blank&quot;&gt;Read Full Article at Publisher &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
