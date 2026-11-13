@@ -5,9 +5,17 @@
     <link>https://pubsonline.informs.org/toc/mksc/0/0</link>
     <description>Latest Articles in Advance from Marketing Science (MS)</description>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Nov 2026 13:36:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 22:59:46 +0000</lastBuildDate>
     <generator>MarketingJournalRSS Bot (https://github.com/qinhuanyu/marketing-journal-rss)</generator>
     <atom:link href="https://qinhuanyu.github.io/marketing-journal-rss/ms.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Digital Journey of Health Insurance Marketing: Narrative Ads and Product Page Design</title>
+      <link>https://doi.org/10.1287/mksc.2025.0168</link>
+      <guid isPermaLink="false">10.1287/mksc.2025.0168</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Yin Bai, Rui Wang, Xingyao Ren, Rajdeep Grewal</dc:creator>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Yin Bai, Rui Wang, Xingyao Ren, Rajdeep Grewal&lt;/p&gt;&lt;p&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&quot;https://doi.org/10.1287/mksc.2025.0168&quot; target=&quot;_blank&quot;&gt;10.1287/mksc.2025.0168&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Articles in Advance / Online First&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Online Publication Date:&lt;/strong&gt; 2026-11-13&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;Selling health insurance through digital advertising is fundamentally different from selling most consumer products online: health insurance protects against abstract future risks, and regulatory constraints prohibit transactions from closing on third-party platforms, forcing consumers to transition from the ad platform to the insurer’s own product page. We examine how aligning narrative ad content with product page design sustains persuasion across this mandatory handoff. In a randomized field experiment with a leading Chinese insurer on Douyin, we study 335 ads that generated nearly 17 million impressions and 777,412 click-throughs. Users who clicked were randomly routed to either a fact-based product page or one incorporating a customer experience exemplar. Purchase conversion rises most when narrative ads are paired with the exemplar page, increasing from 1.51% to 2.05%, implying roughly 8,400 additional policies per month at campaign scale. Neither element is effective in isolation. A causal mediation analysis confirms that sustained engagement on the product page accounts for more than 80% of the total effect. To address algorithm-driven selection in ad delivery and self-selection into clicking, we employ a sequential endogeneity correction strategy and confirm robustness with causal forests. Aligning ad design with product page design significantly improves conversion in regulated digital markets. History: Catherine Tucker served as the senior editor. Funding: X. Ren acknowledges financial support from the National Natural Science Foundation of China [Grants 72072095 and 72472077]. R. Wang acknowledges financial support from the National Natural Science Foundation of China [Grant 72072004]. Y. Bai acknowledges financial support from the National Social Science Fund of China [Grant 22BGL119]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mksc.2025.0168 .&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://doi.org/10.1287/mksc.2025.0168&quot; target=&quot;_blank&quot;&gt;Read Full Article at Publisher &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Overall Evaluation Criteria for A/B Tests: A Meta-Analytic Approach</title>
       <link>https://doi.org/10.1287/mksc.2025.0164</link>
@@ -479,14 +487,6 @@
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
       <dc:creator>Justin Huang, Rupali Kaul, Sridhar Narayanan</dc:creator>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Justin Huang, Rupali Kaul, Sridhar Narayanan&lt;/p&gt;&lt;p&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&quot;https://doi.org/10.1287/mksc.2023.0547&quot; target=&quot;_blank&quot;&gt;10.1287/mksc.2023.0547&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Volume 45, Issue 2&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Online Publication Date:&lt;/strong&gt; 2026-03-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;Using a field experiment on a social network and machine learning methods, we investigate whether artists create more novel content after getting attention and recognition.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://doi.org/10.1287/mksc.2023.0547&quot; target=&quot;_blank&quot;&gt;Read Full Article at Publisher &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A Deep-DiD Method to Estimate Heterogeneous Treatment Effects: Application to Content Creator Selection</title>
-      <link>https://doi.org/10.1287/mksc.2023.0511</link>
-      <guid isPermaLink="false">10.1287/mksc.2023.0511</guid>
-      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-      <dc:creator>Yan Cheng, Jingbo Wang, Xinyu Cao, Zuo-Jun Max Shen, Yuhui Zhang</dc:creator>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Yan Cheng, Jingbo Wang, Xinyu Cao, Zuo-Jun Max Shen, Yuhui Zhang&lt;/p&gt;&lt;p&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&quot;https://doi.org/10.1287/mksc.2023.0511&quot; target=&quot;_blank&quot;&gt;10.1287/mksc.2023.0511&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Volume 45, Issue 2&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Online Publication Date:&lt;/strong&gt; 2026-03-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;This paper develops a Deep-DiD method that integrates two deep neural networks into a difference-in-differences framework to estimate heterogeneous treatment effects and applies it to optimizing platform creator selection.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://doi.org/10.1287/mksc.2023.0511&quot; target=&quot;_blank&quot;&gt;Read Full Article at Publisher &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
