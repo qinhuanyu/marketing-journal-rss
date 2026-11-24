@@ -5,9 +5,17 @@
     <link>https://pubsonline.informs.org/toc/mksc/0/0</link>
     <description>Latest Articles in Advance from Marketing Science (MS)</description>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 16:47:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 03:35:47 +0000</lastBuildDate>
     <generator>MarketingJournalRSS Bot (https://github.com/qinhuanyu/marketing-journal-rss)</generator>
     <atom:link href="https://qinhuanyu.github.io/marketing-journal-rss/ms.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Identification of the Dynamic Discrete-Choice Model with Stockpiling</title>
+      <link>https://doi.org/10.1287/mksc.2024.1280</link>
+      <guid isPermaLink="false">10.1287/mksc.2024.1280</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Xinyao Kong, Jean-Pierre Dubé, Vanessa A. Alwan</dc:creator>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Xinyao Kong, Jean-Pierre Dubé, Vanessa A. Alwan&lt;/p&gt;&lt;p&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&quot;https://doi.org/10.1287/mksc.2024.1280&quot; target=&quot;_blank&quot;&gt;10.1287/mksc.2024.1280&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Articles in Advance / Online First&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Online Publication Date:&lt;/strong&gt; 2026-11-23&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;We show that the canonical dynamic discrete-choice model of demand has built-in exclusion restrictions that overidentify the discount factor.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://doi.org/10.1287/mksc.2024.1280&quot; target=&quot;_blank&quot;&gt;Read Full Article at Publisher &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The Digital Journey of Health Insurance Marketing: Narrative Ads and Product Page Design</title>
       <link>https://doi.org/10.1287/mksc.2025.0168</link>
@@ -127,14 +135,6 @@
       <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
       <dc:creator>Stephen J. Anderson, Pradeep K. Chintagunta, Rupali Kaul, Naufel J. Vilcassim</dc:creator>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Stephen J. Anderson, Pradeep K. Chintagunta, Rupali Kaul, Naufel J. Vilcassim&lt;/p&gt;&lt;p&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&quot;https://doi.org/10.1287/mksc.2025.0292&quot; target=&quot;_blank&quot;&gt;10.1287/mksc.2025.0292&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Articles in Advance / Online First&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Online Publication Date:&lt;/strong&gt; 2026-10-12&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;Using a field experiment with 550 Rwandan firms, we show marketing analytics causally enhances entrepreneurs’ cognition and raises firm sales and profits.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://doi.org/10.1287/mksc.2025.0292&quot; target=&quot;_blank&quot;&gt;Read Full Article at Publisher &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Identification of the Dynamic Discrete-Choice Model with Stockpiling</title>
-      <link>https://doi.org/10.1287/mksc.2024.1280</link>
-      <guid isPermaLink="false">10.1287/mksc.2024.1280</guid>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      <dc:creator>Xinyao Kong, Jean-Pierre Dubé, Vaness Alwan</dc:creator>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Xinyao Kong, Jean-Pierre Dubé, Vaness Alwan&lt;/p&gt;&lt;p&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&quot;https://doi.org/10.1287/mksc.2024.1280&quot; target=&quot;_blank&quot;&gt;10.1287/mksc.2024.1280&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Articles in Advance / Online First&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Online Publication Date:&lt;/strong&gt; 2026-10-08&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;We study the identification of the discount factor for dynamic discrete-choice (DDC) models of demand with stockpiling of a storable good. We show that the DDC has built-in exclusion restrictions that set-identify the discount factor without requiring any auxiliary assumptions. We compare this approach to previous work that assumes auxiliary structure on the storage cost function, clarifying how such structure generates exclusion restrictions and the corresponding data moments used for identification. Our key results show that these auxiliary restrictions are not necessary for identification; but that they are testable and can be included to achieve point identification and improve statistical efficiency. Using a case study of laundry detergent from earlier published work, we find a mean discount factor estimate of $0.957$, rejecting myopic models of choice in favor of the dynamic model. In counterfactual simulations, we show that some of the promotional lift during a discount period is indeed due to forward-buying. However, we predict considerably higher incremental sales compared to a standard discrete-choice model, which predicts that promotional discounts mainly cause substitution between brands. These results contribute to the long-standing discussion about the effectiveness of price promotions.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://doi.org/10.1287/mksc.2024.1280&quot; target=&quot;_blank&quot;&gt;Read Full Article at Publisher &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>From Live to Recording: Consumer Demand and Response to Price Across the Livestreaming Lifecycle</title>
