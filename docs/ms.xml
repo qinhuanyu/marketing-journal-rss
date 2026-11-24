@@ -5,9 +5,17 @@
     <link>https://pubsonline.informs.org/toc/mksc/0/0</link>
     <description>Latest Articles in Advance from Marketing Science (MS)</description>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Nov 2026 03:35:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 16:41:17 +0000</lastBuildDate>
     <generator>MarketingJournalRSS Bot (https://github.com/qinhuanyu/marketing-journal-rss)</generator>
     <atom:link href="https://qinhuanyu.github.io/marketing-journal-rss/ms.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Platform Information Design and Competitive Price Targeting</title>
+      <link>https://doi.org/10.1287/mksc.2023.0518</link>
+      <guid isPermaLink="false">10.1287/mksc.2023.0518</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <dc:creator>Ruiqi Wu, Yufeng Huang, Nan Li</dc:creator>
+      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Ruiqi Wu, Yufeng Huang, Nan Li&lt;/p&gt;&lt;p&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&quot;https://doi.org/10.1287/mksc.2023.0518&quot; target=&quot;_blank&quot;&gt;10.1287/mksc.2023.0518&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Articles in Advance / Online First&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Online Publication Date:&lt;/strong&gt; 2026-11-24&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;We study platform information design, in which a platform provides information about individual consumers, enabling sellers to set targeted prices. Because targetable information partitions the market and might intensify seller competition, what information should be provided remains an empirical question. We collect novel microdata from Steam, the dominant PC video game platform, and use granular consumer purchase and usage data to estimate their heterogeneous demand for video games. We then develop an equilibrium targeted pricing model to simulate counterfactual outcomes under all possible information designs. We demonstrate that the profit-maximizing information design—which distinguishes heterogeneous consumer types while accounting for the design’s equilibrium impact—yields substantially higher profits compared to demand-based heuristics that ignore the equilibrium impact.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://doi.org/10.1287/mksc.2023.0518&quot; target=&quot;_blank&quot;&gt;Read Full Article at Publisher &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The Identification of the Dynamic Discrete-Choice Model with Stockpiling</title>
       <link>https://doi.org/10.1287/mksc.2024.1280</link>
@@ -479,14 +487,6 @@
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
       <dc:creator>K. Sudhir, Onesun Steve Yoo, Zihao Zhou</dc:creator>
       <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; K. Sudhir, Onesun Steve Yoo, Zihao Zhou&lt;/p&gt;&lt;p&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&quot;https://doi.org/10.1287/mksc.2023.0309&quot; target=&quot;_blank&quot;&gt;10.1287/mksc.2023.0309&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Volume 45, Issue 2&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Online Publication Date:&lt;/strong&gt; 2026-03-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;Information asymmetry between investors and entrepreneurs brings about distortions to product experimentations and inefficiencies to innovation outcomes, which are exacerbated by investors’ stereotypes on entrepreneurs.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://doi.org/10.1287/mksc.2023.0309&quot; target=&quot;_blank&quot;&gt;Read Full Article at Publisher &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Novelty in Content Creation: Experimental Results Using Deep Learning–Based Image Recognition on a Large Social Network</title>
-      <link>https://doi.org/10.1287/mksc.2023.0547</link>
-      <guid isPermaLink="false">10.1287/mksc.2023.0547</guid>
-      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-      <dc:creator>Justin Huang, Rupali Kaul, Sridhar Narayanan</dc:creator>
-      <description>&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Justin Huang, Rupali Kaul, Sridhar Narayanan&lt;/p&gt;&lt;p&gt;&lt;strong&gt;DOI:&lt;/strong&gt; &lt;a href=&quot;https://doi.org/10.1287/mksc.2023.0547&quot; target=&quot;_blank&quot;&gt;10.1287/mksc.2023.0547&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Volume 45, Issue 2&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Online Publication Date:&lt;/strong&gt; 2026-03-01&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;Using a field experiment on a social network and machine learning methods, we investigate whether artists create more novel content after getting attention and recognition.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://doi.org/10.1287/mksc.2023.0547&quot; target=&quot;_blank&quot;&gt;Read Full Article at Publisher &amp;rarr;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
